@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
-<!--Add test files here -->
-<suite name="TOOLSQAWEBPAGES">
-<suite-files>
-<suite-file path="C:\Users\Suraj.konangi\eclipse-workspace\Project\resources\suites\testscritp.xml" />
-</suite-files>
-</suite>
